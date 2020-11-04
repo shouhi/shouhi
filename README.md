@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-<a href="" alt="apoorv__tyagi" width="30" /></a>&nbsp;
+<a href="https://twitter.com/shouhi_ide" alt="apoorv__tyagi" width="30" /></a>&nbsp;
 <a href="https://twitter.com/shouhi_ide"><img align="center" alt="note" width="30px" src="https://simpleicons.org/icons/microsoftonenote.svg" /></a>
 </p>
 
