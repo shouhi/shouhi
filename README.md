@@ -8,7 +8,7 @@
 
 ### 🤵 About Me:
 + 🏫 I'm currently a 2rd year student at a university in Japan.
-+ 🌱 I'm currently learning Flutter.
++ 🌱 I'm currently learning Vue, Fluttter, React.
 
 ---
 ### 📈 My Github stats:
